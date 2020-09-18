@@ -1,2 +1,2 @@
-import * from './lib/min.js'
+import * as $ from './lib/min.js'
 let para="chuoi dau tien";
