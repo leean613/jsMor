@@ -1,0 +1,13 @@
+body { 
+    margin: 0;
+     
+}
+.scene,
+canvas { 
+    display: flex;
+     background: gray; 
+    position: absolute;
+    width: 100%;
+        height: 100%;
+
+}
